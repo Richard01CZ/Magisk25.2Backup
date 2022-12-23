@@ -1,0 +1,12 @@
+{
+  "magisk": {
+    "version": "25.2",
+    "versionCode": "25200",
+    "link": "https://github.com/Richard01CZ/Magisk25.2Backup/raw/main/app-release.apk",
+    "note": "https://raw.githubusercontent.com/Richard01CZ/Magisk25.2Backup/main/25200.md"
+  },
+  "stub": {
+    "versionCode": "33",
+    "link": "https://github.com/Richard01CZ/Magisk25.2Backup/raw/main/stub-release.apk"
+  }
+}
